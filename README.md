@@ -30,29 +30,12 @@ Neste contexto, o projeto busca desenvolver um modelo que identifique a direçã
 ## 🛠️ Etapas do projeto
 
 - Aquisição dos dados históricos
-- Tratamento e preparação da base (em andamento)
+- Tratamento e preparação da base
 - Engenharia de atributos
 - Definição do target preditivo
 - Treinamento e avaliação de modelos de Machine Learning
 - Análise de métricas e validação
 - Construção de storytelling técnico
-
----
-
-## 🚀 Status do projeto
-
-🟡 Em desenvolvimento  
-Atualmente em fase de tratamento e preparação dos dados para modelagem.
-
----
-
-## 🔮 Possíveis técnicas a serem utilizadas
-
-- Regressão logística  
-- Árvores de decisão  
-- Random Forest  
-- Redes neurais (LSTM)  
-- Técnicas de séries temporais  
 
 ---
 
@@ -66,5 +49,3 @@ Participantes:
 - Matheus de Oliveira  
 - Tiago Rodrigues de Oliveira  
 - Wesley Alexander Lopes da Silva 
-
-🔗 GitHub: https://github.com/isabellarsandes
